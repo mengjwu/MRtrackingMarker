@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Dropbox\3_PhD\3_Research\Tmech-MRI Tracking Coil\8_Publication\2_CurvedOmniMarker\3_PCB_Design\v5_3Ph_BatchDesign_FineTune\PCB1.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=2.40
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=2.40
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
