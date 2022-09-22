@@ -1,6 +1,6 @@
 This public repository contains **3D Model** of COMSOl, origional **COMSOL Project** files, **Gerber** of our flexible-printed-circuit (FPC), and **Movie S1** of our experiment.
 
-#**I. 3D Model**
+#**I. 3D Model**#
 It contains three marker models, i.e., 1-, 2- and 3- circuit markers. These models were generated into ".stp" formate and can be input directly to COMSOL Multiphysics, which eases others reproducing.
 
 #**II. COMSOL Project**
