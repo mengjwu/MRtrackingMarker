@@ -2,7 +2,7 @@ This public repository contains **3D Model** of COMSOl, origional **COMSOL Proje
 
 **I. 3D Model**
 
-It contains three marker models, i.e., 1-, 2- and 3- circuit markers. These models were generated into ".stp" formate and can be input directly to COMSOL Multiphysics, which eases others simulation.
+It contains three marker models, i.e., 1-, 2- and 3- circuit markers. These models were generated into ".step" formate and can be input directly to COMSOL Multiphysics, which eases others simulation.
 
 **II. COMSOL Project**
 
