@@ -12,7 +12,7 @@ Users can run the project without any modification and extra setting in COMSOL. 
 
 **III. Gerber**
 
-It contains all the files for FPC fabrication. As mentioned in our paper, FPC manufacturing should obey the 0.1-thickness standard. 
+It contains all the files for FPC fabrication. As mentioned in our paper, FPC manufacturing should obey the 0.1 mm-thickness standard. 
 
 **IV. Movie S1**
 
