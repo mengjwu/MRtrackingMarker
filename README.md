@@ -8,7 +8,7 @@ It contains three marker models, i.e., 1-, 2- and 3- circuit markers. These mode
 
 It contains the original COMSOL project. Users can download the project (https://www.dropbox.com/sh/993r2vkm7t0e6di/AAC3tmX515crMaklrrx1C2FHa?dl=0) and open it on COMSOL Multiphysics V6.0. This file is about 22.5 GB and requires a powerful computer for simulation. The performance parameters of our computer are as follows: 1) 64 GB RAM, 2) 2TB SSD, 3) 
 
-Users can run the project without any modification and extra setting in COMSOL. It already contains all the computation data and plots. Users can review them in the part "*Results" in the "*Model Builder" window.
+Users can run the project without any modification and extra setting in COMSOL. It already contains all the computation data and plots. Users can review them in the part "*Results*" in the "*Model Builder*" window.
 
 **III. Gerber**
 
